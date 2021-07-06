@@ -1,0 +1,6 @@
+{
+  "products": [
+    { "id": 1, "name": "Samsung A30", "price": "15000" },
+    { "id": 2, "name": "Huawei Mate 8", "price": "18000" }
+  ]
+}
